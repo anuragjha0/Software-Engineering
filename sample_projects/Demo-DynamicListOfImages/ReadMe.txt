@@ -1,0 +1,5 @@
+- Please see a sample Received.xml in this folder.
+- Copy this file to the %temp% folder in your device (%temp% should evaluate to something like C:\Users\<username>\AppData\Local\Temp).
+- Please update the Received.xml file with real paths to image files from your device.
+- Run the sample app.
+- Once your app is running, update the XML file, and you should see your app's view update accordingly.
